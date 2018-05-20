@@ -1,0 +1,64 @@
+{
+  "region": [
+    {
+      "name": "Dhaka",
+      "area": [
+        {
+          "name": "Dhaka East",
+          "house": [
+            {
+              "name": "The Jamal & Co",
+              "point": [
+                {
+                  "name": "Dhanmondi",
+                  "route": [
+                    {
+                      "name": "16A",
+                      "route_id": [
+                        {
+                          "name": "88",
+                          "cluster": [
+                            "1 No. Rail Gate",
+                            "Eskaton Road",
+                            "Farmgate",
+                            "Firmgate Al Raji Hospital",
+                            "Kawran Bazar Railway Market",
+                            "Nimtoli Mosjid",
+                            "Railgate",
+                            "Station Road",
+                            "Tejkunipara Mohila College",
+                            "Tejkunipara Sceince College",
+                            "Women College"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "16B",
+                      "route_id": [
+                        {
+                          "name": "89",
+                          "cluster": [
+                            "Airport Road",
+                            "Awlad Hossan Market",
+                            "Eskaton Road",
+                            "Holicross Road",
+                            "Kalmilata Bazar",
+                            "Khelagar Math",
+                            "Railway Market",
+                            "Station Road"
+                          ]
+                        }
+                      ]
+                    }
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+
+  ]
+}
