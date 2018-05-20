@@ -1,0 +1,1299 @@
+{
+  "region": [
+    {
+      "name": "Dhaka",
+      "area": [
+        {
+          "name": "Dhaka East",
+          "house": [
+            {
+              "name": "Dhanmondi",
+              "point": [
+                {
+                  "name": "Dhanmondi",
+
+
+                  "route": [
+                    {
+                      "name": "1",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "Boshir Uddin Road",
+                            "Dali Bhari",
+                            "Dolphin Bus Stand",
+                            "Dolphin Goli",
+                            "Kalabagan",
+                            "Kalabagan 2nd Lane",
+                            "Kalabagan Bus Stand",
+                            "Lake Circus",
+                            "Megla Bus Counter"
+                          ]
+                        }
+                      ]
+                    },
+
+
+                    {
+                      "name": "2",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "Alamin Road",
+                            "Central Hospital 5 No. Road",
+                            "Dhanmondi 5 No. Road",
+                            "Dhanmondi 6 No. Road",
+                            "Dhanmondi 7 No. Road",
+                            "Dhanmondi 8 No. Road",
+                            "Kathal Bagan Bazar",
+                            "Kathalbagan Bazar",
+                            "Khaja Hotel",
+                            "Lab Aid Hospital",
+                            "Staff Quarter",
+                            "Vojon Bilash"
+                          ]
+                        }
+                      ]
+                    },
+
+
+                    {
+                      "name": "3",
+                      "route_id": [
+                        {
+                          "name": "A",
+                          "cluster": [
+                            "Bata Signal",
+                            "Central Road",
+                            "Coffee House Goli",
+                            "Elephant Road",
+                            "Hatirpul Kancha Bazar",
+                            "Katabon",
+                            "New Elephant Road"
+                          ]
+                        },
+                        {
+                          "name": "B",
+                          "cluster": [
+                            "Commissioner Goli",
+                            "Hatirpool Free School Street",
+                            "Hatirpool Mour",
+                            "Kalabagan Thana Vuter Goli",
+                            "North Circular Road",
+                            "Vuter Goli",
+                            "Sonargaon Road Eastern Plaza"
+                          ]
+                        }
+                      ]
+                    },
+
+
+
+                    {
+                      "name": "4",
+                      "route_id": [
+                        {
+                          "name": "A",
+                          "cluster": [
+                            "Bangla Motors",
+                            "Commissioner Goli",
+                            "Crescent Rose",
+                            "Green Center",
+                            "Nasrullahar Bari",
+                            "Poribagh",
+                            "Pukur Par Mosjid",
+                            "Purkur Par",
+                            "Vuter Goli"
+                          ]
+                        },
+                        {
+                          "name": "B",
+                          "cluster": [
+                            "Alam Hotel",
+                            "Bangla Motors",
+                            "Eastern Plaza",
+                            "Motalab Plaza",
+                            "Poribag Bazar",
+                            "Poribag Mosjid",
+                            "Somoy TV",
+                            "Sonargaon Road"
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "5",
+                      "route_id": [
+                        {
+                          "name": "A",
+                          "cluster": [
+                            "Bow Bazar",
+                            "Comfort Hospital",
+                            "Gestolever Goli",
+                            "Lake Circus",
+                            "Lal Fokir M.R",
+                            "New Bow Bazar",
+                            "Rasel Square",
+                            "Square Hospital"
+                          ]
+                        },
+                        {
+                          "name": "B",
+                          "cluster": [
+                            "Box Culvert",
+                            "Caffee Noor Hotel",
+                            "Free School Street",
+                            "Green Road"
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "6",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "Boshir Uddin Road",
+                            "Basundhara City",
+                            "Basundhara City East Side",
+                            "Basundhara City West Side",
+                            "Garden Road",
+                            "Garden Road",
+                            "Pantho Path",
+                            "Green Road Pantha Path",
+                            "Near Suvastu Tower",
+                            "Pantho Path",
+                            "Pantho Path Main Road",
+                            "Pantho Path Signal",
+                            "Pantho Path",
+                            "Basundhara City",
+                            "Samurai Convensionery",
+                            "Sumurai Convensionery",
+                            "Victoria University"
+
+                          ]
+                        }
+                      ]
+                    },
+
+
+                    {
+                      "name": "7",
+                      "route_id": [
+                        {
+                          "name": "A",
+                          "cluster": [
+                            "East Raza Bazar",
+                            "Sobhanbag",
+                            "T&T Field"
+                          ]
+                        },
+                        {
+                          "name": "B",
+                          "cluster": [
+                            "Sobhanbag",
+                            "Sukrabad Baazar",
+                            "New Model College",
+                            "Pantho Path Dhali Bari",
+                            "Sukrabad Bazar",
+                            "Sukrabad Bus Stand",
+                            "Sukrabad Dhal"
+                          ]
+                        }
+                      ]
+                    },
+
+
+                    {
+                      "name": "8",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "Boshir Uddin Road",
+                            "Dhanmondi 27 Meena Bazar",
+                            "Lalmatia Block-A",
+                            "Lalmatia Block-E",
+                            "Lalmatia Minar Mosjid",
+                            "Lalmatia Wasa",
+                            "Opposite of HSBC Bank",
+                            "Rafa Plaza"
+                          ]
+                        }
+                      ]
+                    },
+
+
+
+                    {
+                      "name": "9",
+                      "route_id": [
+                        {
+                          "name": "A",
+                          "cluster": [
+
+                            "Ambagan",
+                            "Amtala Raza Bazar",
+                            "East Raza Bazar",
+                            "Green Road Bonoful",
+                            "Green Road IBA Hostel",
+                            "Green Road Pantha Path Signal",
+                            "Indira Road Bou Bazar",
+                            "Indira Road Commissioner Goli",
+                            "Indira Road Raza Bazar"
+                          ]
+                        },
+                        {
+                          "name": "B",
+                          "cluster": [
+                            "Firmgate",
+                            "Garden Road",
+                            "Green Super Janata Bank",
+                            "Jahanara Garden",
+                            "Purnima Restora",
+                            "Tejturi Bazar"
+
+
+
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "10",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "Indira Road",
+                            "Manik Mia Avenue",
+                            "Monipuri Para",
+                            "Sejan Point",
+                            "Tejgaon College"
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "11",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "Khamar Bari Eye Hospital",
+                            "Lion Shopping Complex",
+                            "Monipuri Para Krishi Lab Mosjid",
+                            "Police Box"
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "12",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "66 Firmgate",
+                            "Ananda Hall",
+                            "Purnima Hall",
+                            "UCC Coaching Center"
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "13",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "Alu Bazar",
+                            "Ambar Shah Masjid",
+                            "City Corporation",
+                            "East Tejturi Bazar",
+                            "HRC Bhaban Kawran Bazar",
+                            "Janata Tower Kawran Bazar",
+                            "Prothom Alo Bhaban",
+                            "Soudia Hotel"
+
+                          ]
+                        }
+                      ]
+                    },
+
+
+                    {
+                      "name": "14",
+                      "route_id": [
+                        {
+                          "name": "A",
+                          "cluster": [
+
+                            "1 No. DIT Market",
+
+                            "Bhanga Gate",
+
+                            "FDC gate",
+
+                            "Railgate",
+
+                            "Railway Market",
+
+                            "Truck Stand Mosjid Market",
+
+                            "Wasa Bhaban"
+
+                          ]
+                        },
+                        {
+                          "name": "B",
+                          "cluster": [
+                            "2 No. Super Market",
+                            "BTCC Bhaban",
+                            "DIT Market",
+                            "ETV Goli",
+                            "Hasina Market",
+                            "Kitchen Market",
+                            "Surma Hotel"
+
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "15",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+
+                            "Fakir Bazar",
+                            "Kamal Potti",
+                            "Kawran Bazar Railway Market",
+                            "Khelagar Math",
+                            "Machar Arot",
+                            "Railway Market"
+
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "16",
+                      "route_id": [
+                        {
+                          "name": "A",
+                          "cluster": [
+                            "1 No. Rail Gate",
+                            " Eskaton Road",
+                            " Firmgate Al Raji Hospital",
+                            " Nimtoli Mosjid",
+                            " Tejkunipara Mohila College",
+                            " Tejkunipara Sceince College"
+                          ]
+                        },
+                        {
+                          "name": "B",
+                          "cluster": [
+                            "Airport Road",
+                            "Awlad Hossan Market",
+                            "Eskaton Road",
+                            "Holicross Road",
+                            "Kalmilata Bazar",
+                            "Khelagar Math",
+                            "Railway Market"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "17",
+                      "route_id": [
+                        {
+                          "name": "A",
+                          "cluster": [
+                            "Galif Sarani",
+                            "Tezkuni para",
+                            "Kathal tala Mour",
+                            "Lucas Mour",
+                            "Nakhal para",
+                            "Rangs Road",
+                            "Saw miler Dhal"
+
+                          ]
+                        },
+                        {
+                          "name": "B",
+                          "cluster": [
+                            "12No Nakhal para",
+                            " West Nakhal para",
+                            " Bonoful goli",
+                            " Elen Bari Nakhal para",
+                            " Saw Miller Dhal",
+                            " Sia Majar Dhal",
+                            "Super Market Road"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "18",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "Channel I",
+                            " Bottola",
+                            " East Nakhalpara",
+                            " Metropoliton Hospital",
+                            " Rasulbag",
+                            " S A Poribohon",
+                            " Samity Bazar",
+                            " Somity Bazar"
+                          ]
+                        }
+                      ]
+                    },
+                    {
+                      "name": "19",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+
+                            "Abbas Garden Mohakhali",
+                            " Arjatpara 10 Mohakhali",
+                            " BAT Gate",
+                            " BRTC Counter",
+                            " CNG Pump",
+                            " Mohakhali",
+                            " Mohakhali Bottola",
+                            " Rail Gate",
+                            " Railgate Mohakhali",
+                            " Rawa Gate",
+                            " Sahin bag 421 No. Goli",
+                            " Sahin bag 6 No. Goli",
+                            " Sahin Complex",
+                            " Sahinbag Gate"
+
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "20",
+                      "route_id": [
+                        {
+                          "name": "A",
+                          "cluster": [
+                            " 12 No. Goli",
+                            " East Nakhalpara",
+
+                            " Hazi Moron Ali Road",
+                            " Lichu Bagan",
+                            " Lucas Mour",
+                            " Nakhalpara Railgate",
+                            " Post Office Goli",
+                            " Sat Rasta",
+                            " West Nakhalpara"
+
+
+                          ]
+                        },
+                        {
+                          "name": "B",
+                          "cluster": [
+
+                            "BG Press Staff Quarter",
+                            " Hazi Moron Ali Road",
+                            " Nabisco Mour",
+                            " Nakhalpar Bazar Road",
+
+                            " Nakhalpara Bazar",
+                            " Railgate  ",
+
+                            " Tibbot Goli"
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "21",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "Arjat Para",
+                            " Bou Bazar East Nakhalpara",
+                            " Paglar Pul Bridge",
+                            " Rasulbag Mohakhali",
+                            " Rasulbag Mosjid Goli",
+                            " Sadekur Rahman Hero Road"
+
+                          ]
+                        }
+                      ]
+                    },
+
+
+                    {
+                      "name": "22",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "14 No. Goli",
+                            " BRTC Goli",
+                            " Rangs Goli",
+                            " Rasulbag Mosjid Goli",
+                            " Truck Stand"
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "23",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "14 No. Goli",
+                            " BRTC Goli",
+                            " Rangs Goli",
+                            " Rasulbag Mosjid Goli",
+                            " Truck Stand"
+                          ]
+                        }
+                      ]
+                    },
+
+
+                    {
+                      "name": "24",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "Agargaon Bazar",
+                            " Agargaon Bus Stand",
+                            " IDB",
+                            " Janata Housing",
+                            " Paka Market",
+                            " Sceince Museum",
+                            " Taltola",
+                            " Taltola  ",
+                            " Taltola Bazar",
+                            " Taltola Coloni",
+                            " Water Tanky"
+                          ]
+                        }
+                      ]
+                    },
+
+
+                    {
+                      "name": "25",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "Agargaon Bazar",
+                            " Agargaon Bus Stand",
+                            " IDB",
+                            " Janata Housing",
+                            " Paka Market",
+                            " Sceince Museum",
+                            " Taltola",
+                            " Taltola  ",
+                            " Taltola Bazar",
+                            " Taltola Coloni",
+                            " Water Tanky"
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "26",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "Agargaon Bazar",
+                            " Agargaon Bus Stand",
+                            " IDB",
+                            " Janata Housing",
+                            " Paka Market",
+                            " Sceince Museum",
+                            " Taltola",
+                            " Taltola  ",
+                            " Taltola Bazar",
+                            " Taltola Coloni",
+                            " Water Tanky"
+                          ]
+                        }
+                      ]
+                    },
+
+
+                    {
+                      "name": "27",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "3 No. Road Shyamoli",
+                            " Asadgate",
+                            " Bata Shopping Mall",
+                            " Darus Salam Tower",
+                            " Dipjol Pump",
+                            " Hanif Counter Kallyanpur",
+                            " Khaja Market Kallyanpur",
+                            " Kidni Hospital",
+                            " Sahid Shorwardi Hospital",
+                            " Sahid Sorwardi",
+                            " Samoly Market",
+                            " Shamoli 2 No. Road",
+                            " Shamoly",
+                            " Shishu Mela"
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "28",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "Asadgate",
+                            " Babor Road",
+                            " College Gate",
+                            " Lalmatia Wasa",
+                            " New Colony",
+                            " Ring Road",
+                            " Shamoly Hall",
+                            " Sir Syed Road"
+
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "29",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "1 No. Geneva Camp",
+                            " Aziz Moholla",
+                            " Bazar Road",
+                            " Gojnobi Road",
+                            " Humayun Road",
+                            " Jannatbag Khelar Math",
+                            " Puratan Thana",
+                            " Shajahan Road",
+                            " SP Road",
+                            " Tajmahal Road",
+                            " Tikka Para"
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "30",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "Humayun Road",
+                            " Krishi Market",
+                            " Krishi Market 1 No. Gate",
+                            " Krishi Market Chal Bazar",
+                            " Krishi market",
+                            " Kancha Bazar",
+                            " Minar Mosjid",
+                            " Nahar Hotel",
+                            " Tajmahal  ",
+                            " Tajmahal Road",
+                            " Tikka Para"
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "31",
+                      "route_id": [
+                        {
+                          "name": "A",
+                          "cluster": [
+                            
+                          ]
+                        },
+                        {
+                          "name": "B",
+                          "cluster": [
+                            
+                          ]
+                        }
+                      ]
+                    },
+
+
+                    {
+                      "name": "32",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "Ikbal Road",
+                            " Kath Potti sher Shah Suri Road",
+                            " Sher Shah Suri Road",
+                            " Tajmahal Road",
+                            " Town Hall",
+                            " Town Hall Bottola",
+                            " Town Hall Camp Bazar",
+                            " Town Hall Gate Govt. Market",
+                            " Town Hall Govt. Market",
+                            " Town Hall Kancha Bazar"
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "33",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "Asad Avenue",
+                            "BRTC Bus Stand",
+                            "Minar Mosjid",
+                            "Noor Jahan Road",
+                            "Rajia Sultana Road",
+                            "Solimulla Road",
+                            "Tajmahal Road"
+
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "34",
+                      "route_id": [
+                        {
+                          "name": "A",
+                          "cluster": [
+                            
+                          ]
+                        },
+                        {
+                          "name": "B",
+                          "cluster": [
+                            
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "35",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "Basbari Road",
+                            "Kaba Masjid Road",
+                            "Koba Mosjid Road",
+                            "Mohammadia Housing Main",
+                            "Nurjahan Road",
+                            "Sat Mosjid Road",
+                            "Sia Mosjid Road",
+                            "Sonali Math"
+
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "36",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "City College",
+                            "Dhanmondi",
+                            "Dhanmondi Club Math",
+                            "Front of Lab Aid",
+                            "Kalabagan",
+                            "Rafa Plaza",
+                            "Sobhanbag Corner",
+                            "Star Kabab Dhanmondi 2 No."
+
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "37",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "Abahani Math",
+                            "Anam Rangs Plaza",
+                            "Dhanmondi 2 No",
+                            "Dhanmondi 2 No.",
+                            "Dhanmondi 3/2/1",
+                            "Dhanmondi 3A/4A",
+                            "Dhanmondi 6/5/4",
+                            "Dhanmondi 8",
+                            "IBN Sina 9/A",
+                            "KFC 7/A",
+                            "Medinova Medical",
+                            "Northern University",
+                            "Rifles Square",
+                            "Robindro Sorobor",
+                            "Zigatala Bus Stand"
+
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "38",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "Abahani Field",
+                            "Abahani Math",
+                            "Bangladesh Medical",
+                            "Dhanmondi 10/A",
+                            "Dhanmondi 27 Meena Bazar",
+                            "Dhanmondi 8",
+                            "Dhanmondi Abahani Field",
+                            "Dhanmondi Chayanot",
+                            "Dhanmondi Naz E Noor Hotel",
+                            "Dhanmondi Road 10/A",
+                            "Dhanmondi Road 11A/12A",
+                            "IBN Sina 9/A",
+                            "KFC 7/A",
+                            "Meena Bazar 9/A",
+                            "Star Kabab"
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "39",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "Bangladesh Eye Hospital",
+                            "Dhanmondi 27 Meena Bazar",
+                            "Lalmatia Block-D",
+                            "Lalmatia Block-E",
+                            "Lalmatia Minar Mosjid",
+                            "Mohammadpur Thana",
+                            "Nazrul Islam Road",
+                            "Physical College",
+                            "Town Hall Camp Bazar"
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "40",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "Bangladesh Eye Hospital",
+                            "Community Center",
+                            "Opposite Of Shankar Mosjid",
+                            "Popular",
+                            "Shankar",
+                            "Shankar Bus Stand",
+                            "Shankar Tushar Hotel",
+                            "Sher-e Bangla Road Pulpar",
+                            "Zafrabad Pulpar",
+                            "Zafrabad Shankar"
+
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "41",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "Chairman Goli",
+                            "City Cafe",
+                            "Niribili Housing",
+                            "Pathsala Goli",
+                            "Rayer Bazar Community Center",
+                            "Rayer Bazar Godigor Goli",
+                            "Rayer Bazar Khalar Math",
+                            "Shankar Balur math",
+                            "Study Town"
+
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "42",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "15 No. Staff Quarter"
+                            "Dhanmondi Road 8/A"
+                            "Zigatala"
+                            "Zigatala Bus Stand"
+                            "Zigatala Mour"
+                            "Zigatala New Road"
+                            "Zigatala Road"
+                            "Zigatala Salek Garden"
+                            "Zigatala Staff Quarter"
+
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "43",
+                      "route_id": [
+                        {
+                          "name": "A",
+                          "cluster": [
+                            
+                          ]
+                        },
+                        {
+                          "name": "B",
+                          "cluster": [
+                            
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "44",
+                      "route_id": [
+                        {
+                          "name": "A",
+                          "cluster": [
+                            
+                          ]
+                        },
+                        {
+                          "name": "B",
+                          "cluster": [
+                            
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "45",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "15 No. Bus Stand",
+                            "250 Sultangonj Road",
+                            "Hatembag Mosjid Janata Bank Mour",
+                            "Hatembag Mosjid Mour",
+                            "Modu Bazar",
+                            "Rayar Bazar School Mour",
+                            "Sher-e Bangla Road",
+                            "Sultangonj Road Nimtala Mondir",
+                            "Tali Office Mour"
+
+
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "46",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "7/A",
+                            "Dhanmondi",
+                            "7A Dhanmondi",
+                            "Moneswar Road",
+                            "Tenari Mour",
+                            "Tenari Mour Water Pump",
+                            "ULAB",
+                            "Zigatala",
+                            "Zigatala Mour",
+                            "Zigatala New Road",
+                            "Zigatola"
+
+
+                          ]
+                        }
+                      ]
+                    },
+
+
+
+
+
+
+
+
+
+
+
+                    {
+                      "name": "52",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "4No Housing",
+                            "6No Beribadh",
+                            "6No Housing",
+                            "Beribadh",
+                            "Beribandh Main Road",
+                            "Beribandh Mina Bazar",
+                            "Houisng 3 No.",
+                            "Houisng 4 No.",
+                            "Houisng 6 No.",
+                            "Mohammadi Housing 5 No.",
+                            "Nobi Nagar 7no",
+                            "Nobinagar 7 No. Road",
+                            "Nobinagar Bazar",
+                            "Sat Masjid Madrasa"
+                          ]
+                        }
+                      ]
+                    },
+
+                     {
+                      "name": "53",
+                      "route_id": [
+                        {
+                          "name": "A",
+                          "cluster": [
+                            
+                          ]
+                        },
+                        {
+                          "name": "B",
+                          "cluster": [
+                            
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "54",
+                      "route_id": [
+                        {
+                          "name": "A",
+                          "cluster": [
+                            
+                          ]
+                        },
+                        {
+                          "name": "B",
+                          "cluster": [
+                            
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "55",
+                      "route_id": [
+                        {
+                          "name": "A",
+                          "cluster": [
+                            
+                          ]
+                        },
+                        {
+                          "name": "B",
+                          "cluster": [
+                            
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "56",
+                      "route_id": [
+                        {
+                          "name": "A",
+                          "cluster": [
+                            
+                          ]
+                        },
+                        {
+                          "name": "B",
+                          "cluster": [
+                            
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "57",
+                      "route_id": [
+                        {
+                          "name": "A",
+                          "cluster": [
+                            
+                          ]
+                        },
+                        {
+                          "name": "B",
+                          "cluster": [
+                            
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "58",
+                      "route_id": [
+                        {
+                          "name": "A",
+                          "cluster": [
+                            
+                          ]
+                        },
+                        {
+                          "name": "B",
+                          "cluster": [
+                            
+                          ]
+                        }
+                      ]
+                    },
+
+
+                    {
+                      "name": "59",
+                      "route_id": [
+                        {
+                          "name": "DS",
+                          "cluster": [
+                            "Kawranbazar",
+                            "Mohammadpur",
+                            "Kathal Bagan",
+                            "Kolmilota market"
+                          ]
+                        }
+                      ]
+                    },
+
+                    {
+                      "name": "61",
+                      "route_id": [
+                        {
+                          "name": "A",
+                          "cluster": [
+                            "Chand Uddan R-7",
+                            "Satmosjid Housing"
+                            
+                          ]
+                        },
+                        {
+                          "name": "B",
+                          "cluster": [
+                            "Dhaka Uddan Road 2 Block C",
+                            "Turag Housing"
+                          ]
+                        }
+                      ]
+                    },
+
+
+                    {
+                      "name": "62",
+                      "route_id": [
+                        {
+                          "name": "A",
+                          "cluster": [
+                            "Salam Shordar Road",
+                            "Bhai Bhai Road"
+
+                            
+                          ]
+                        },
+                        {
+                          "name": "B",
+                          "cluster": [
+                            "Metro Housing",
+                            "Shajalal Housing"
+                            
+                          ]
+                        }
+                      ]
+                    }
+
+
+
+                   
+
+
+
+                  ]
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    }
+
+  ]
+}
